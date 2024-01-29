@@ -10,3 +10,6 @@
 	path = edi-document
 	url = git@git.vauxoo.com:vauxoo/edi-document.git
 	branch = 16.0
+[submodule "colombia"]
+	path = colombia
+	url = git@git.vauxoo.com:vauxoo/colombia.git
